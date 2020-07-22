@@ -1,6 +1,6 @@
 {
-  "name": "react-typescript-template",
-  "version": "1.0.0",
+  "name": "hedgehog-lab",
+  "version": "0.8.0",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.10.1",
